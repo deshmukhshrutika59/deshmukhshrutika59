@@ -75,7 +75,7 @@ FastAPI • REST APIs • Git • Docker • Linux
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,fastapi,tensorflow,docker,git,linux,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,fastapi,tensorflow,docker,git,mysql,html,css" />
 
 </p>
 
@@ -88,8 +88,6 @@ FastAPI • REST APIs • Git • Docker • Linux
 • System Design & Scalable Architectures
 
 • AI-powered Developer Tools
-
-• Cloud & DevOps
 
 ---
 
