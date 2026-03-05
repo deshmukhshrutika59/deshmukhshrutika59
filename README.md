@@ -10,8 +10,11 @@ I enjoy solving real-world problems through **scalable backend systems, modern w
 # 🧠 What I Do
 
 💻 Build **full-stack applications using MERN stack**
+
 🤖 Integrate **AI/ML capabilities into real-world products**
+
 ⚙️ Design **REST APIs and scalable backend services**
+
 📊 Work with **data processing, machine learning, and analytics**
 
 ---
@@ -33,32 +36,6 @@ A full-stack platform that combines **professional networking, real-time messagi
 **Tech Stack**
 
 React • Node.js • Express • MongoDB • FastAPI • Gemini AI • Socket.io
-
----
-
-## 🔹 AI Mental Health Chat Companion
-
-AI-powered chatbot that detects emotional sentiment and provides mental wellness support.
-
-**Features**
-
-• Emotion detection using NLP models
-• AI-based conversation assistant
-• Personalized wellness recommendations
-
-**Tech Stack**
-
-React • FastAPI • BERT • MongoDB
-
----
-
-## 🔹 AI Virtual Wardrobe Assistant
-
-AI-based application recommending outfits based on **weather conditions and user preferences.**
-
-**Tech Stack**
-
-React • TensorFlow • Flask • OpenWeather API
 
 ---
 
@@ -107,8 +84,11 @@ FastAPI • REST APIs • Git • Docker • Linux
 # 🌱 Currently Exploring
 
 • Advanced Backend Engineering
+
 • System Design & Scalable Architectures
+
 • AI-powered Developer Tools
+
 • Cloud & DevOps
 
 ---
