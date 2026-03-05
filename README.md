@@ -1,59 +1,68 @@
-# Hi 👋, I'm Shrutika Deshmukh
+# 👋 Hi, I'm Shrutika Deshmukh
 
-**Full Stack Developer | MERN Stack | AI Powered Applications**
+### 🚀 Full Stack Developer | MERN Stack | AI-Powered Applications
 
-A Computer Science graduate passionate about building **AI-powered full stack applications**, developer tools, and scalable web platforms. I enjoy solving real-world problems through **software engineering, machine learning integration, and modern web technologies.**
-
----
-
-# 🚀 About Me
-
-🎓 **B.Tech CSE (2025)** – MGM’s College of Engineering, Nanded
-
-💻 Experienced in **MERN Stack, Python, FastAPI, AI integrations**
-
-🤖 Interested in **AI-powered web applications and developer platforms**
-
-🔍 Passionate about **backend engineering, APIs, and intelligent systems**
-
-🛠 Skilled in **React, Node.js, MongoDB, Python, FastAPI, TensorFlow**
+I am a **Computer Science graduate (2025)** passionate about building **intelligent web applications, developer platforms, and AI-powered tools**.
+I enjoy solving real-world problems through **scalable backend systems, modern web technologies, and AI integrations.**
 
 ---
 
-# 🔭 Featured Projects
+# 🧠 What I Do
 
-## 🚀 DevConnect — AI Powered Developer Networking Platform
-
-**Tech Stack:** React, Node.js, MongoDB, FastAPI, Gemini AI, Socket.io
-
-• Developer social network
-• AI resume analyzer
-• AI career assistant
-• Real-time messaging system
-• Analytics dashboard
+💻 Build **full-stack applications using MERN stack**
+🤖 Integrate **AI/ML capabilities into real-world products**
+⚙️ Design **REST APIs and scalable backend services**
+📊 Work with **data processing, machine learning, and analytics**
 
 ---
 
-## 🤖 AI Mental Health Chat Companion
+# 🚀 Featured Projects
 
-**Tech Stack:** React, FastAPI, BERT, MongoDB
+## 🔹 DevConnect — AI Developer Networking Platform
 
-• Emotion detection using NLP
-• Chat-based mental health assistant
-• Suggests wellness exercises
+A full-stack platform that combines **professional networking, real-time messaging, and AI career guidance for developers.**
+
+**Key Features**
+
+• AI Resume Analyzer (ATS-style feedback)
+• AI Career Assistant powered by Gemini
+• Real-time messaging with Socket.io
+• Developer social feed & networking
+• Analytics dashboard for engagement insights
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • FastAPI • Gemini AI • Socket.io
 
 ---
 
-## 👗 AI Virtual Wardrobe Assistant
+## 🔹 AI Mental Health Chat Companion
 
-**Tech Stack:** React, Flask, TensorFlow, OpenWeather API
+AI-powered chatbot that detects emotional sentiment and provides mental wellness support.
 
-• Detects clothing items from images
-• Recommends outfits based on weather & occasion
+**Features**
+
+• Emotion detection using NLP models
+• AI-based conversation assistant
+• Personalized wellness recommendations
+
+**Tech Stack**
+
+React • FastAPI • BERT • MongoDB
 
 ---
 
-# 🧩 Skills
+## 🔹 AI Virtual Wardrobe Assistant
+
+AI-based application recommending outfits based on **weather conditions and user preferences.**
+
+**Tech Stack**
+
+React • TensorFlow • Flask • OpenWeather API
+
+---
+
+# 🧩 Technical Skills
 
 ### Programming
 
@@ -63,64 +72,58 @@ Python • JavaScript • SQL
 
 React.js • Node.js • Express.js • HTML • CSS • MongoDB
 
-### AI / ML
+### AI / Machine Learning
 
-TensorFlow • NLP • Machine Learning • Data Processing
+TensorFlow • NLP • Scikit-learn • Deep Learning
 
-### Tools
+### Backend & Tools
 
-Git • Docker • Linux • MongoDB • FastAPI
-
-### Soft Skills
-
-Problem Solving • Communication • Collaboration • Adaptability
+FastAPI • REST APIs • Git • Docker • Linux
 
 ---
 
-# 🌱 Currently Learning
+# 📊 GitHub Statistics
 
-Advanced Backend Development
-System Design
-AI Integration in Web Applications
-Cloud & DevOps
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deshmukhshrutika59&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deshmukhshrutika59&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-# 📫 Reach Me
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,fastapi,tensorflow,docker,git,linux,mysql,html,css" />
+
+</p>
+
+---
+
+# 🌱 Currently Exploring
+
+• Advanced Backend Engineering
+• System Design & Scalable Architectures
+• AI-powered Developer Tools
+• Cloud & DevOps
+
+---
+
+# 🌐 Connect With Me
 
 📧 Email
 [deshmukhshrutika59@gmail.com](mailto:deshmukhshrutika59@gmail.com)
 
 💼 LinkedIn
-[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/shrutika-deshmukh-19259822a/)
+https://linkedin.com/in/YOUR_LINK
 
 💻 GitHub
 https://github.com/deshmukhshrutika59
 
 ---
 
-# 🤝 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-</p>
-
----
-
-# 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,fastapi,tensorflow,git,docker,linux,mysql,html,css" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deshmukhshrutika59&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deshmukhshrutika59&theme=tokyonight" />
-
-</p>
+⭐ Always interested in **building impactful products and collaborating on interesting projects.**
