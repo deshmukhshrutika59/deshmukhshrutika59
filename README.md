@@ -97,7 +97,7 @@ FastAPI • REST APIs • Git • Docker • Linux
 [deshmukhshrutika59@gmail.com](mailto:deshmukhshrutika59@gmail.com)
 
 💼 LinkedIn
-https://linkedin.com/in/YOUR_LINK
+https://www.linkedin.com/in/shrutika-deshmukh-19259822a/
 
 💻 GitHub
 https://github.com/deshmukhshrutika59
