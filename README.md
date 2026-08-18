@@ -77,12 +77,10 @@ Currently developing my skills across **Generative AI, LLM applications, Agentic
 * VS Code
 * MongoDB Compass
 
-### 🔄 Automation & Testing
+### 🔄 Automation
 
 * Power Automate
 * ServiceNow
-* Selenium
-* Pytest
 * API Testing
 * Workflow Automation
 
