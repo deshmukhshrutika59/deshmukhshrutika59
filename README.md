@@ -52,9 +52,6 @@ An Agentic RAG system designed to retrieve and synthesize enterprise documentati
 **Tech Stack**
 
 `Python` `LangGraph` `FastAPI` `Azure OpenAI` `ChromaDB` `BM25` `RRF` `Cross-Encoder` `Pydantic` `Streamlit`
-
-🔗 [Explore my GitHub repositories](https://github.com/deshmukhshrutika59)
-
 ---
 
 ### 🤖 DeployAssistant.AI
@@ -74,9 +71,6 @@ An AI-powered deployment governance system that helps analyze deployment risks a
 **Tech Stack**
 
 `Python` `Agentic AI` `LangGraph` `LLMs` `FastAPI` `REST APIs`
-
-🔗 [Explore my GitHub repositories](https://github.com/deshmukhshrutika59)
-
 ---
 
 ### 🌐 DevConnect
@@ -95,9 +89,6 @@ A developer networking platform that combines social networking features with AI
 **Tech Stack**
 
 `React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `FastAPI` `Gemini AI` `Socket.io`
-
-🔗 [Explore my GitHub repositories](https://github.com/deshmukhshrutika59)
-
 ---
 
 ### 🍅 Tomato Leaf Disease Detection
@@ -114,22 +105,6 @@ A CNN-based image classification project for identifying tomato leaf diseases us
 **Tech Stack**
 
 `Python` `TensorFlow` `Keras` `CNN` `NumPy` `Pandas`
-
-🔗 [Explore my GitHub repositories](https://github.com/deshmukhshrutika59)
-
----
-
-### ⚙️ Mini Event Finder
-<sub>Backend Engineering • REST APIs</sub>
-
-A backend-focused application for discovering and managing events through RESTful APIs.
-
-**Tech Stack**
-
-`TypeScript` `Node.js` `Express.js` `REST APIs`
-
-🔗 [Explore my GitHub repositories](https://github.com/deshmukhshrutika59)
-
 ---
 
 ## 🛠️ Tech Stack
