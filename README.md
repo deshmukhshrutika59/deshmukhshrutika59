@@ -52,6 +52,7 @@ An Agentic RAG system designed to retrieve and synthesize enterprise documentati
 **Tech Stack**
 
 `Python` `LangGraph` `FastAPI` `Azure OpenAI` `ChromaDB` `BM25` `RRF` `Cross-Encoder` `Pydantic` `Streamlit`
+
 ---
 
 ### 🤖 DeployAssistant.AI
@@ -71,6 +72,7 @@ An AI-powered deployment governance system that helps analyze deployment risks a
 **Tech Stack**
 
 `Python` `Agentic AI` `LangGraph` `LLMs` `FastAPI` `REST APIs`
+
 ---
 
 ### 🌐 DevConnect
@@ -89,6 +91,7 @@ A developer networking platform that combines social networking features with AI
 **Tech Stack**
 
 `React.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `FastAPI` `Gemini AI` `Socket.io`
+
 ---
 
 ### 🍅 Tomato Leaf Disease Detection
@@ -105,6 +108,7 @@ A CNN-based image classification project for identifying tomato leaf diseases us
 **Tech Stack**
 
 `Python` `TensorFlow` `Keras` `CNN` `NumPy` `Pandas`
+
 ---
 
 ## 🛠️ Tech Stack
